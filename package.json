@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["microWebSocket.py", "github:jczic/MicroWebSrv/microWebSocket.py"],
+    ["microWebSrv.py", "github:jczic/MicroWebSrv/microWebSrv.py"],
+    ["microWebTemplate.py", "github:jczic/MicroWebSrv/microWebTemplate.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
